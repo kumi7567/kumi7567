@@ -1,4 +1,8 @@
 # 💫 About Me:
+### Junior Pentester & Junior System Administrator
+
+![https://github.com/kumi7567](https://raw.githubusercontent.com/kumi7567/kumi7567/master/git_banner.png)
+
 Hi, I'm Sergio Garcia (sh4d0w), a recent graduate student in Network Operating Systems Administration (ASIR). My path in systems administration led me to an exciting discovery: cybersecurity. Since then, I have dedicated myself to training and facing challenges to learn new technologies and strengthen my understanding of this exciting field.<br><br>During my studies, I had the opportunity to gain experience in different areas of cybersecurity. I performed web audits, OSINT investigations, internal audits and code analysis which led me to become much more interested in the Red Team field. These experiences have given me a deep understanding of the importance of protecting systems and data properly.<br><br>In addition, I have worked as a system administrator, creating and managing an Active Directory environment (Windows + Linux) creating 4 subnets thanks to OpenWrt for a correct and secure operation. I have also installed multiple services with Docker (Gophish, Mailcow, Rancher...). This experience has given me a solid foundation in IT infrastructure management.<br><br>Programming is another passion of mine, and I enjoy creating scripts and tools for multiple tasks. My preferred programming languages include Python, Bash and Powershell.<br><br>Finally, I have a website where I publish content related to programming, cybersecurity, solving CTFs, etc.
 
 
@@ -7,7 +11,4 @@ Hi, I'm Sergio Garcia (sh4d0w), a recent graduate student in Network Operating S
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kumi7567&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kumi7567&theme=blueberry&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kumi7567&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
